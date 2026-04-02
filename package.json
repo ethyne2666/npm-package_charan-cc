@@ -1,0 +1,27 @@
+{
+  "name": "charan-cc",
+  "version": "1.0.0",
+  "description": "An npm package to convert currency",
+  "main": "index.js",
+  "type": "module",
+  
+  "keywords": [
+    "npm"
+  ],
+  "homepage": "https://github.com/ethyne2666/npm-package_charan-cc#readme",
+  "bugs": {
+    "url": "https://github.com/ethyne2666/npm-package_charan-cc/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ethyne2666/npm-package_charan-cc.git"
+  },
+  "license": "Apache-2.0",
+  "author": "charan kumar",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "dependencies": {
+    "@everapi/freecurrencyapi-js": "^1.0.1"
+  }
+}
